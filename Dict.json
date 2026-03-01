@@ -1,0 +1,1467 @@
+{
+  "prepended_words":[
+    "Forsooth ",
+    "I say, ",
+    "I sayeth, ",
+    "Forsooth, I say, ",
+    "Forsooth, say I, ",
+    "Forsooth, sayeth I, ",
+    "Hark! ",
+    "Harketh! ",
+    "By &god, ",
+    "By the Will of &gadj &god, ",
+    "By the &bodyadj &bodypart of the &gadj &god, ",
+    "By &gadj &god's &bodyadj &bodypart, ",
+    "Avast, ",
+    "Zounds, ",
+    "Perchance, ",
+    "Pray tell, ",
+    "Prithee, ",
+    "What hey, ",
+    "What ho, ",
+    "Pray, ",
+    "Surely ",
+    "Pray pardon, ",
+    "Alas, ",
+    "In short, ",
+    "My Lord, ",
+    "My Lady, ",
+    "By my faith, ",
+    "If it pleases you, ",
+    "I pray you, ",
+    "In truth, ",
+    "By my trowth, ",
+    "In sooth, ",
+    "By my word, ",
+    "S'wounds, ",
+    "Z'wounds, ",
+    "&god's wounds, ",
+    "&god's &bodypart, ",
+    "Heigh-ho, ",
+    "Ah, ",
+    "Quoth I, ",
+    "Listen, ",
+    "Listen thee, ",
+    "Hear me, ",
+    "Now hear me, ",
+    "I warrant ",
+    "Come, ",
+    "Kind sire, ",
+    "Sire, ",
+    "There is much in what you say, and yet, "
+  ],
+  "appended_words":[
+    "Anon!",
+    "Hum.",
+    "Good sir!",
+    "Good sire!",
+    "Milady!",
+    "My Liege!",
+    "Guvnor!"
+  ],
+  "single_replacements":{
+    "it is":[
+      "tis"
+    ],
+    "it's":[
+      "tis"
+    ],
+    "it was":[
+      "twas"
+    ],
+    "it would":[
+      "'twould"
+    ],
+    "it will":[
+      "'twill"
+    ],
+    "it were":[
+      "'twere"
+    ],
+    "shall not":[
+      "shan't"
+    ],
+    "will not":[
+      "shan't"
+    ],
+    "over there":[
+      "yonder"
+    ],
+    "in the":[
+      "i' the"
+    ],
+    "thank you":[
+      "many good thanks to you ",
+      "thankee",
+      "kindly thanks to you",
+      "grammercy to you"
+    ],
+    "you":[
+      "thou",
+      "thee",
+      "ye"
+    ],
+    "u":[
+      "thou",
+      "thee",
+      "ye"
+    ],
+    "are":[
+      "art"
+    ],
+    "god":[
+      "&god"
+    ],
+    "godadj":[
+      "&gadj"
+    ],
+    "bodypart":[
+      "&bodypart"
+    ],
+    "bodyadj":[
+      "&bodyadj"
+    ],
+    "lol":[
+      "lolleth",
+      "lollery"
+    ],
+    "killed":[
+      "&killed_swap"
+    ],
+    "beaten":[
+      "&killed_swap"
+    ],
+    "goodbye":[
+      "&goodbye_swap"
+    ],
+    "bye":[
+      "&goodbye_swap"
+    ],
+    "seeya":[
+      "&goodbye_swap"
+    ],
+    "goodnight":[
+      "&goodbye_swap"
+    ],
+    "idiot":[
+      "&insult_a &insult_b &insult_s"
+    ],
+    "fool":[
+      "&insult_a &insult_b &insult_s"
+    ],
+    "bastard":[
+      "&insult_a &insult_b &insult_s"
+    ],
+    "idiots":[
+      "&insult_a &insult_b &insult_p"
+    ],
+    "fools":[
+      "&insult_a &insult_b &insult_p"
+    ],
+    "bastards":[
+      "&insult_a &insult_b &insult_p"
+    ],
+    "yes":[
+      "aye",
+      "yea",
+      "yea verily"
+    ],
+    "no":[
+      "nay",
+      "nayeth"
+    ],
+    "hello":[
+      "&hello_swap"
+    ],
+    "hi":[
+      "&hello_swap"
+    ],
+    "does":[
+      "doeseth",
+      "dost",
+      "doth"
+    ],
+    "kill":[
+      "&kill_swap"
+    ],
+    "gank":[
+      "&kill_swap"
+    ],
+    "your":[
+      "thy",
+      "thine",
+      "thyne"
+    ],
+    "my":[
+      "mine"
+    ],
+    "in":[
+      "within"
+    ],
+    "flag":[
+      "pennant",
+      "banner",
+      "colors",
+      "heraldry"
+    ],
+    "the":[
+      "ye"
+    ],
+    "joke":[
+      "jest",
+      "jape"
+    ],
+    "go":[
+      "",
+      "be off"
+    ],
+    "will":[
+      "wilt",
+      "wouldst"
+    ],
+    "gold":[
+      "&gold_swap"
+    ],
+    "money":[
+      "&gold_swap"
+    ],
+    "balls":[
+      "&balls_swap"
+    ],
+    "groin":[
+      "&balls_swap"
+    ],
+    "water":[
+      "ale",
+      "mead",
+      "flagon of ale",
+      "flagon of mead"
+    ],
+    "food":[
+      "vittles",
+      "rations",
+      "sustenance",
+      "viands",
+      "nutriments"
+    ],
+    "afk":[
+      "away, fighting kobolds",
+      "away, fruity knights",
+      "aft, frisking knickers",
+      "abaft, flailing knouts"
+    ],
+    "aggro":[
+      "wrath"
+    ],
+    "town":[
+      "&town_swap"
+    ],
+    "village":[
+      "&town_swap"
+    ],
+    "home":[
+      "&town_swap"
+    ],
+    "sell":[
+      "hawk",
+      "pawn",
+      "tender",
+      "purvey"
+    ],
+    "buy":[
+      "purchase",
+      "obtain"
+    ],
+    "debuff":[
+      "ailment",
+      "sickness",
+      "pox"
+    ],
+    "map":[
+      "chart"
+    ],
+    "between":[
+      "betwixt"
+    ],
+    "thank":[
+      "&thank_swap"
+    ],
+    "thx":[
+      "&thank_swap"
+    ],
+    "thanks":[
+      "many thanks",
+      "much thankage",
+      "thankee muchly"
+    ],
+    "please":[
+      "I pray you",
+      "prithee",
+      "pray"
+    ],
+    "ok":[
+      "as you will",
+      "agreed",
+      "well said",
+      "just so"
+    ],
+    "spy":[
+      "&spy_swap"
+    ],
+    "spies":[
+      "&spies_swap"
+    ],
+    "spys":[
+      "&spies_swap"
+    ],
+    "soldier":[
+      "&soldier_swap"
+    ],
+    "solly":[
+      "&soldier_swap"
+    ],
+    "soldiers":[
+      "&soldiers_swap"
+    ],
+    "demoman":[
+      "&demoman_swap"
+    ],
+    "demomen":[
+      "&demomen_swap"
+    ],
+    "demomens":[
+      "&demomen_swap"
+    ],
+    "demomans":[
+      "&demomen_swap"
+    ],
+    "medic":[
+      "&medic_swap"
+    ],
+    "medics":[
+      "&medics_swap"
+    ],
+    "pyro":[
+      "&pyro_swap"
+    ],
+    "pyros":[
+      "&pyros_swap"
+    ],
+    "sniper":[
+      "&sniper_swap"
+    ],
+    "snipers":[
+      "&snipers_swap"
+    ],
+    "scout":[
+      "&scout_swap"
+    ],
+    "scouts":[
+      "&scouts_swap"
+    ],
+    "heavy":[
+      "&heavy_swap"
+    ],
+    "heavies":[
+      "&heavies_swap"
+    ],
+    "engineer":[
+      "&engineer_swap"
+    ],
+    "engineers":[
+      "&engineers_swap"
+    ],
+    "engys":[
+      "&engineers_swap"
+    ],
+    "engies":[
+      "&engineers_swap"
+    ],
+    "is":[
+      "be"
+    ],
+    "party":[
+      "&party_swap"
+    ],
+    "group":[
+      "&party_swap"
+    ],
+    "parties":[
+      "&parties_swap"
+    ],
+    "groups":[
+      "&parties_swap"
+    ],
+    "lfg":[
+      "&lfg_prep a fellowship",
+      "&lfg_prep a band of trusty fellows",
+      "&lfg_prep a trustworthy group",
+      "&lfg_prep fine adventurers",
+      "&lfg_prep a worthy band"
+    ],
+    "newbie":[
+      "&newbie_swap"
+    ],
+    "newb":[
+      "&newbie_swap"
+    ],
+    "noob":[
+      "&newbie_swap"
+    ],
+    "nub":[
+      "&newbie_swap"
+    ],
+    "lowbie":[
+      "&newbie_swap"
+    ],
+    "beginner":[
+      "&newbie_swap"
+    ],
+    "newbies":[
+      "&newbies_swap"
+    ],
+    "newbs":[
+      "&newbies_swap"
+    ],
+    "noobs":[
+      "&newbies_swap"
+    ],
+    "nubs":[
+      "&newbies_swap"
+    ],
+    "lowbies":[
+      "&newbies_swap"
+    ],
+    "beginners":[
+      "&newbies_swap"
+    ],
+    "level":[
+      "rank",
+      "station"
+    ],
+    "levels":[
+      "rank",
+      "station"
+    ],
+    "rofl":[
+      "&rofl_swap"
+    ],
+    "roflmao":[
+      "&rofl_swap"
+    ],
+    "roflol":[
+      "&rofl_swap"
+    ],
+    "wait":[
+      "hold",
+      "hold hard",
+      "mark time",
+      "tarry"
+    ],
+    "waits":[
+      "holds",
+      "holds hard",
+      "marks time",
+      "tarries"
+    ],
+    "need":[
+      "covet",
+      "wish",
+      "desire",
+      "reuest"
+    ],
+    "needs":[
+      "covets",
+      "wishes",
+      "desires",
+      "requires"
+    ],
+    "even":[
+      "e'en"
+    ],
+    "never":[
+      "ne'er"
+    ],
+    "over":[
+      "o'er"
+    ],
+    "before":[
+      "'ere"
+    ],
+    "unless":[
+      "lest"
+    ],
+    "hehe":[
+      "&haha_swap"
+    ],
+    "heh":[
+      "&haha_swap"
+    ],
+    "hah":[
+      "&haha_swap"
+    ],
+    "haha":[
+      "&haha_swap"
+    ],
+    "shop":[
+      "&shop_swap"
+    ],
+    "store":[
+      "&shop_swap"
+    ],
+    "shops":[
+      "&shop_swap"
+    ],
+    "stores":[
+      "&shop_swap"
+    ],
+    "vendor":[
+      "&vendor_swap"
+    ],
+    "seller":[
+      "&vendor_swap"
+    ],
+    "vendors":[
+      "&vendors_swap"
+    ],
+    "salesmen":[
+      "&vendors_swap"
+    ],
+    "friend":[
+      "&friend_swap"
+    ],
+    "buddy":[
+      "&friend_swap"
+    ],
+    "pal":[
+      "&friend_swap"
+    ],
+    "mate":[
+      "&friend_swap"
+    ],
+    "friends":[
+      "&friends_swap"
+    ],
+    "buddies":[
+      "&friends_swap"
+    ],
+    "pals":[
+      "&friends_swap"
+    ],
+    "mates":[
+      "&friends_swap"
+    ],
+    "teh":[
+      "the"
+    ],
+    "assist":[
+      "aid",
+      "aideth",
+      "saveth",
+      "assistance",
+      "succor"
+    ],
+    "could":[
+      "couldst"
+    ],
+    "would":[
+      "wouldst"
+    ],
+    "sure":[
+      "shore"
+    ],
+    "maybe":[
+      "mayhaps",
+      "perchance"
+    ],
+    "girl":[
+      "&girl_swap"
+    ],
+    "woman":[
+      "&girl_swap"
+    ],
+    "girls":[
+      "&girls_swap"
+    ],
+    "women":[
+      "&girl_swap"
+    ],
+    "later":[
+      "anon"
+    ],
+    "often":[
+      "oft"
+    ],
+    "really":[
+      "indeed",
+      "in truth"
+    ],
+    "those":[
+      "yon"
+    ],
+    "here":[
+      "hither"
+    ],
+    "enough":[
+      "enow"
+    ],
+    "wow":[
+      "Marry",
+      "Faith",
+      "S'wounds",
+      "God's wounds",
+      "Zounds"
+    ],
+    "child":[
+      "poppet"
+    ],
+    "why":[
+      "wherefore"
+    ],
+    "away":[
+      "aroint"
+    ],
+    "being":[
+      "bein'"
+    ],
+    "of":[
+      "o'"
+    ],
+    "fucker":[
+      "swiver"
+    ],
+    "shit":[
+      "nightsoil"
+    ],
+    "making":[
+      "a-makin'"
+    ],
+    "though":[
+      "tho'"
+    ],
+    "until":[
+      "'till"
+    ],
+    "underneath":[
+      "'neath"
+    ],
+    "beneath":[
+      "'neath"
+    ],
+    "coming":[
+      "a-comin'"
+    ],
+    "walking":[
+      "a-walkin'"
+    ],
+    "hunting":[
+      "a-huntin'"
+    ],
+    "bet":[
+      "warrant"
+    ]
+  },
+  "punctuation":{
+    "!":[
+      ", verily!",
+      ", verily I say!",
+      ", verily I sayeth!",
+      ", I say!",
+      ", I sayeth!",
+      "! Huzzah!",
+      "! Hear Hear!",
+      "! What-ho!",
+      "! Ho!",
+      "! Fire!",
+      ", indeed!"
+    ],
+    "?":[
+      ", I say!",
+      ", I wonder?",
+      ", wonder I?",
+      ", what say thee?",
+      ", what sayeth thee?",
+      ", what say thou?",
+      ", what sayeth thou?",
+      ", I ponder?",
+      ", I pondereth?",
+      ", pray tell?",
+      ", pray tell?",
+      ", ho?",
+      ", do tell?"
+    ]
+  },
+  "change_tags":{
+    "&friend_swap":[
+      "companion",
+      "boon companion",
+      "chum",
+      "lad",
+      "cohort",
+      "confidant",
+      "right-hand man",
+      "mate",
+      "compadre",
+      "fellow"
+    ],
+    "&friends_swap":[
+      "companions",
+      "boon companions",
+      "chums",
+      "lads",
+      "cohorts",
+      "confidants",
+      "right-hand men",
+      "mates",
+      "compadres",
+      "fellows"
+    ],
+    "&vendor_swap":[
+      "shopkeep",
+      "monger",
+      "merchant",
+      "purveyor"
+    ],
+    "&vendors_swap":[
+      "shopkeepers",
+      "mongerers",
+      "merchants",
+      "purveyors"
+    ],
+    "&shop_swap":[
+      "shoppe",
+      "shopcart",
+      "olde shoppe",
+      "market",
+      "marketplace",
+      "ye olde thrifte shoppe"
+    ],
+    "&rofl_swap":[
+      "rofleth",
+      "guffaw"
+    ],
+    "&newbie_swap":[
+      "neophyte",
+      "youngster",
+      "serf",
+      "dabbler",
+      "pleb",
+      "apprentice",
+      "journeyman",
+      "pupil",
+      "tenderfoot",
+      "initiate",
+      "fledgling",
+      "greenhorn",
+      "acolyte"
+    ],
+    "&newbies_swap":[
+      "neophytes",
+      "youngsters",
+      "serfs",
+      "dabblers",
+      "plebians",
+      "apprentices",
+      "journeymen",
+      "pupils",
+      "tenderfeet",
+      "initiates",
+      "fledglings",
+      "greenhorns",
+      "acolytes"
+    ],
+    "&lfg_prep":[
+      "I am seeking",
+      "I be looking for",
+      "I am desiring",
+      "I be seaching for",
+      "I'm in search of"
+    ],
+    "&party_swap":[
+      "band",
+      "fellowship",
+      "assembly",
+      "troop"
+    ],
+    "&parties_swap":[
+      "bands",
+      "fellowships",
+      "assemblies",
+      "troops"
+    ],
+    "&engineer_swap":[
+      "craftsman",
+      "smith",
+      "smithy",
+      "blacksmith",
+      "artisan",
+      "machinist",
+      "ironsmith",
+      "metalworker",
+      "golem-maker",
+      "golemist"
+    ],
+    "&engineers_swap":[
+      "craftsmen",
+      "smiths",
+      "smithies",
+      "blacksmiths",
+      "artisans",
+      "machinists",
+      "ironsmiths",
+      "metalworkers",
+      "golem-maker",
+      "golemists"
+    ],
+    "&heavy_swap":[
+      "brawler",
+      "bouncer",
+      "boxer",
+      "bruiser"
+    ],
+    "&heavies_swap":[
+      "brawlers",
+      "bouncers",
+      "boxers",
+      "bruisers"
+    ],
+    "&scout_swap":[
+      "lookout",
+      "outrider",
+      "spotter",
+      "explorer",
+      "patroller",
+      "runner",
+      "advance guard"
+    ],
+    "&scouts_swap":[
+      "lookouts",
+      "outriders",
+      "spotters",
+      "explorers",
+      "patrollers",
+      "runners",
+      "advance gurds"
+    ],
+    "&sniper_swap":[
+      "hunter",
+      "ranger",
+      "woodsman",
+      "beastmaster",
+      "australian",
+      "archer",
+      "bowman",
+      "arrowman",
+      "fletcher"
+    ],
+    "&snipers_swap":[
+      "hunters",
+      "rangers",
+      "woodsmen",
+      "beastmasters",
+      "australians",
+      "archers",
+      "bowmen",
+      "arrowmen",
+      "fletchers"
+    ],
+    "&pyro_swap":[
+      "pyromaniac",
+      "maniac",
+      "flamewielder",
+      "firebrand",
+      "fire mage",
+      "fire magus",
+      "Masked Salamander"
+    ],
+    "&pyros_swap":[
+      "priests",
+      "pyromaniac",
+      "maniac",
+      "flamewielder",
+      "firebrand",
+      "fire mages",
+      "fire magii",
+      "Masked Salamanders"
+    ],
+    "&insult_a":[
+      "artless",
+      "droning",
+      "fawning",
+      "warped",
+      "paunchy",
+      "puny",
+      "spongy",
+      "ruttish",
+      "vain",
+      "lumpish",
+      "craven",
+      "witless",
+      "pustulent",
+      "infested",
+      "ill-bred",
+      "blind",
+      "scurvy",
+      "puny",
+      "fetid",
+      "vile",
+      "gibbering",
+      "mewling",
+      "rank",
+      "fawning",
+      "moonish",
+      "brutish",
+      "malapert",
+      "curst",
+      "lack-linen",
+      "bottle-ailed",
+      "lyingest",
+      "embossed",
+      "cheating",
+      "crook-pated",
+      "base-court",
+      "hasty-witted",
+      "two-faced",
+      "pox-marked",
+      "toad-brained",
+      "errant",
+      "idle-headed",
+      "quailing",
+      "flap-mouthed",
+      "puking",
+      "fly-bitten",
+      "surly",
+      "tottering",
+      "villainous",
+      "rump-fed",
+      "bottless",
+      "churlish",
+      "tickle-brained",
+      "froward"
+    ],
+    "&insult_b":[
+      "artless",
+      "droning",
+      "fawning",
+      "warped",
+      "paunchy",
+      "puny",
+      "spongy",
+      "ruttish",
+      "vain",
+      "lumpish",
+      "craven",
+      "witless",
+      "pustulent",
+      "infested",
+      "ill-bred",
+      "blind",
+      "scurvy",
+      "puny",
+      "fetid",
+      "vile",
+      "gibbering",
+      "mewling",
+      "rank",
+      "fawning",
+      "moonish",
+      "brutish",
+      "malapert",
+      "curst",
+      "lack-linen",
+      "bottle-ailed",
+      "lyingest",
+      "embossed",
+      "cheating",
+      "crook-pated",
+      "base-court",
+      "hasty-witted",
+      "two-faced",
+      "pox-marked",
+      "toad-brained",
+      "errant",
+      "idle-headed",
+      "quailing",
+      "flap-mouthed",
+      "puking",
+      "fly-bitten",
+      "surly",
+      "tottering",
+      "villainous",
+      "rump-fed",
+      "bottless",
+      "churlish",
+      "tickle-brained",
+      "froward"
+    ],
+    "&insult_s":[
+      "mongrel",
+      "codpiece",
+      "jackanape",
+      "ape",
+      "coxcomb",
+      "harlot",
+      "hussy",
+      "strumpet",
+      "cur",
+      "clot",
+      "fool",
+      "barnacle",
+      "harpy",
+      "wench",
+      "churl",
+      "pleb",
+      "taffer",
+      "scoundrel",
+      "scalliwag",
+      "mooncalf",
+      "rapscallion",
+      "doxy",
+      "bawd",
+      "tosspot",
+      "cupshot",
+      "recreant",
+      "fustalarion",
+      "scullion",
+      "rampallion",
+      "knave",
+      "barbermonger",
+      "biol",
+      "plague-sore",
+      "carbuncle",
+      "whoreson",
+      "clotpole",
+      "lout",
+      "gudgeon",
+      "puttock",
+      "skainsmate",
+      "varlet",
+      "bladder"
+    ],
+    "&insult_p":[
+      "mongrels",
+      "codpieces",
+      "jackanapes",
+      "apes",
+      "coxcombes",
+      "harlots",
+      "hussies",
+      "strumpets",
+      "clots",
+      "fools",
+      "barnacles",
+      "harpies",
+      "wenches",
+      "churls",
+      "plebians",
+      "taffers",
+      "scoundrels",
+      "scalliwags",
+      "mooncalves",
+      "rapscallions",
+      "doxies",
+      "bawds",
+      "tosspots",
+      "cupshots",
+      "recreants",
+      "fustalarions",
+      "scullions",
+      "rampallions",
+      "knaves",
+      "barbermongerers",
+      "boils",
+      "plague-sores",
+      "carbuncles",
+      "whoresons",
+      "louts"
+    ],
+    "&medic_swap":[
+      "priest",
+      "cleric",
+      "healer",
+      "nursemaid",
+      "bonesetter",
+      "butcher",
+      "medicine man",
+      "witchdoctor",
+      "leech",
+      "apothecary",
+      "wizard"
+    ],
+    "&medics_swap":[
+      "priests",
+      "clerics",
+      "healers",
+      "nursemaids",
+      "bonesetters",
+      "butchers",
+      "medicine men",
+      "witchdoctors",
+      "leeches",
+      "apothecaries",
+      "wizards"
+    ],
+    "&demoman_swap":[
+      "swordsman",
+      "scotsman",
+      "drunkard",
+      "swordsmaster",
+      "blademaster",
+      "knight",
+      "paladin"
+    ],
+    "&demomen_swap":[
+      "swordsmen",
+      "scotsmen",
+      "drunkards",
+      "swordmasters",
+      "blades for hire",
+      "blademasters",
+      "knights",
+      "paladins"
+    ],
+    "&soldier_swap":[
+      "mercenary",
+      "warrior",
+      "shovelman",
+      "champion"
+    ],
+    "&soldiers_swap":[
+      "mercenaries",
+      "warriors",
+      "shovelmen",
+      "champions"
+    ],
+    "&spy_swap":[
+      "cutpurse",
+      "pickpocket",
+      "vagabond",
+      "blackguard",
+      "hooligan",
+      "pilferer",
+      "backstabber",
+      "thief",
+      "haunt",
+      "rogue"
+    ],
+    "&spies_swap":[
+      "cutpurses",
+      "pickpockets",
+      "vagabonds",
+      "blackguards",
+      "pilferers",
+      "backstabbers",
+      "thieves",
+      "haunts",
+      "rogues"
+    ],
+    "&thank_swap":[
+      "many good thank",
+      "thankee",
+      "kindly thank"
+    ],
+    "&town_swap":[
+      "borough",
+      "burgage",
+      "burgh",
+      "keep",
+      "castle",
+      "hamlet",
+      "redoubt"
+    ],
+    "&gold_swap":[
+      "bullion",
+      "florins",
+      "ducats",
+      "pieces o'silver",
+      "groats",
+      "crowns",
+      "ingots"
+    ],
+    "&girl_swap":[
+      "madame",
+      "waif",
+      "mistress",
+      "lass",
+      "goodwife",
+      "maid",
+      "maiden"
+    ],
+    "&girls_swap":[
+      "madames",
+      "waifs",
+      "mistresses",
+      "lasses",
+      "ladies",
+      "goodwives",
+      "maids",
+      "maidens"
+    ],
+    "&haha_swap":[
+      "guffaw!",
+      "cackle!",
+      "oh, 'tis to laugh!",
+      "zounds!",
+      "chuckle!",
+      "snigger!",
+      "snort!",
+      "snicker!",
+      "cachinnate!",
+      "titter!",
+      "and there was much tittering!",
+      "and there was much guffawing!",
+      "and there was much chuckling!",
+      "and there was much snorting!",
+      "and there was much snickering!",
+      "and there was much mirth!"
+    ],
+    "&balls_swap":[
+      "beans",
+      "poundables",
+      "nethers",
+      "nadchakles",
+      "buis",
+      "fellahs",
+      "coin purse"
+    ],
+    "&kill_swap":[
+      "slay",
+      "vanquish",
+      "bring low",
+      "conquer",
+      "fleece",
+      "humble",
+      "subjugate",
+      "best",
+      "foil"
+    ],
+    "&hello_swap":[
+      "well met",
+      "well meteth",
+      "tally ho",
+      "ave"
+    ],
+    "&killed_swap":[
+      "slain",
+      "vanquished",
+      "brung low",
+      "conquered",
+      "fleeced",
+      "humbled",
+      "subjugated",
+      "bested",
+      "foiled"
+    ],
+    "&goodbye_swap":[
+      "farewell",
+      "fare thee well",
+      "good morrow",
+      "by your leave",
+      "godspeed",
+      "begone",
+      "good day",
+      "good day, sirrah",
+      "good day, sire",
+      "good day, master",
+      "adieu",
+      "cheerio",
+      "pleasant journey",
+      "I bid thee good day",
+      "I bid thee farewell"
+    ],
+    "&god":[
+      "Odin",
+      "Bob",
+      "Zeus",
+      "Hera",
+      "Thor",
+      "Crom",
+      "Mad-poet Navarth",
+      "Cugel",
+      "Wotsit",
+      "Baron Boddisey",
+      "Poseidon",
+      "Saint Mary",
+      "Pallus Athena",
+      "Loki",
+      "Erlik",
+      "Shoggoth",
+      "Omm",
+      "Vishnu",
+      "Azazoth",
+      "Father Odin",
+      "Allfather Odin",
+      "Cthulhu",
+      "Buddha",
+      "Aphrodite",
+      "Isis",
+      "Kali",
+      "Dionysus",
+      "Zarathustra",
+      "Croesus",
+      "Hermes",
+      "Venus",
+      "Montezuma",
+      "Popacatapetl",
+      "Hephaestus",
+      "Bubastes",
+      "Bacchus",
+      "Nebuchadnezzar",
+      "Assurbanipal",
+      "Sargon",
+      "Xerxes",
+      "Mulwatallish",
+      "Labarna",
+      "Hammurabi",
+      "Rameses",
+      "Minos",
+      "Tilgath-Pileser",
+      "Vercingetorix",
+      "Mithradites",
+      "Pericles",
+      "Belasarius",
+      "Archaemides",
+      "Heraclius",
+      "Imhotep",
+      "Artemis",
+      "Orthia",
+      "Phoebe",
+      "Hestia",
+      "Eros",
+      "Persephone",
+      "Minerva",
+      "Mercury",
+      "Aesculapius",
+      "Discordia",
+      "Hecate",
+      "Hespera"
+    ],
+    "&bodypart":[
+      "Beard",
+      "Third Leg",
+      "Scalp",
+      "Eye",
+      "Thigh",
+      "Arm",
+      "Sword",
+      "Heel",
+      "Gaze",
+      "Tongue",
+      "Hammer",
+      "Toenail",
+      "Nether Regions",
+      "Liver",
+      "Lights",
+      "Spleen",
+      "Gall",
+      "Liver and Lights"
+    ],
+    "&gadj":[
+      "Almighty",
+      "Unthinkable",
+      "Unknowable",
+      "All-knowing",
+      "All-seeing",
+      "Lecherous",
+      "Scandalous",
+      "Merciful",
+      "Ravaging",
+      "Thunderous",
+      "Wrathful",
+      "Distant",
+      "Vengeful",
+      "Supreme",
+      "Wise",
+      "Warlike",
+      "Jealous",
+      "Vindictive",
+      "Powerful",
+      "Adulterous",
+      "Licentious",
+      "Crafty",
+      "Beneficial",
+      "Virtuous",
+      "Protective",
+      "Prophetic",
+      "Bloodthirsty",
+      "Murderous",
+      "Ruinous",
+      "Militant",
+      "Invisible",
+      "Omnipotent",
+      "Forgotten",
+      "Enlightened",
+      "Tempestuous",
+      "Destructive",
+      "Grim"
+    ],
+    "&bodyadj":[
+      "Unknowable",
+      "Unescapable",
+      "Unfathomable",
+      "Unthinkable",
+      "Righteous",
+      "Hairy",
+      "Hairless",
+      "Wandering",
+      "Blistered",
+      "Awe-inspiring",
+      "Toothy",
+      "Ravaged",
+      "Aged",
+      "Endless",
+      "Wondrous",
+      "Unavoidable",
+      "Prestilent",
+      "Forgotten",
+      "Beautiful",
+      "Fertile",
+      "Prophetic",
+      "Musical",
+      "Helpful",
+      "Virginal",
+      "Curative",
+      "Bleak",
+      "Incessant",
+      "Sagely",
+      "Unfashionable",
+      "Unfaltering",
+      "Unfamiliar",
+      "Abysmal",
+      "Boundless",
+      "Eternal",
+      "Immeasurable",
+      "Infinite",
+      "Unending",
+      "Soundless",
+      "Incomprehensible",
+      "Inexplicable",
+      "Profound",
+      "unintelligible",
+      "Unbelievable",
+      "Impenetrable",
+      "Indecipherable",
+      "Esoteric",
+      "Enigmatic",
+      "Ancient",
+      "Venerable",
+      "Baneful",
+      "Contagious",
+      "Corrupting",
+      "Deadly",
+      "Deleterious",
+      "Evil",
+      "Noxious",
+      "Diseased",
+      "Pernicious",
+      "Pestiferous",
+      "Pestilential",
+      "Tainted",
+      "Contaminated",
+      "Pulchritudinous",
+      "Odoriferous",
+      "Misbegotten",
+      "Sacriligious"
+    ]
+  }
+}
