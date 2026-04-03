@@ -6,7 +6,7 @@
   Can be used as a basic present->medieval 'translator'
 
 ## How to use:
-1. Download the latest release.
+1. Download the latest release and extract it.
 2. Ensure both `TF2-Medieval-chat-parser.exe` and `dict.json` are in the same folder.
 3. Run the executable.
 4. Type your sentences and press **Enter** to see the magic happen.
